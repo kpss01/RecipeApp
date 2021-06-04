@@ -27,9 +27,7 @@ struct ContentView: View {
                                 .clipped()
                                 .cornerRadius(5)
                             
-                            Text(element.name).font(.subheadline).onTapGesture {
-                                print(element.name)
-                            }
+                            Text(element.name)
                         }
                     })
 

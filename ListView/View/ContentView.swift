@@ -31,8 +31,8 @@ struct ContentView: View {
                         }
                     })
 
-            }.navigationBarTitle("All Recipe")
-        }
+            }.navigationBarTitle(Text("All Recipe"), displayMode: .automatic)
+        }.navigationViewStyle(StackNavigationViewStyle())
     }
 }
 

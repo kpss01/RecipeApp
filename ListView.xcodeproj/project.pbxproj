@@ -20,6 +20,7 @@
 		66E8B7F326699D6000EE7DE5 /* RecipeDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66E8B7F226699D6000EE7DE5 /* RecipeDetailView.swift */; };
 		66E8B7F6266AE59000EE7DE5 /* RecipeTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66E8B7F5266AE59000EE7DE5 /* RecipeTabView.swift */; };
 		66E8B7FB266C1A0E00EE7DE5 /* RecipeFeaturedView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66E8B7FA266C1A0E00EE7DE5 /* RecipeFeaturedView.swift */; };
+		66E8B800266D77A900EE7DE5 /* RecipeHighlights.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66E8B7FF266D77A900EE7DE5 /* RecipeHighlights.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -38,6 +39,7 @@
 		66E8B7F226699D6000EE7DE5 /* RecipeDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeDetailView.swift; sourceTree = "<group>"; };
 		66E8B7F5266AE59000EE7DE5 /* RecipeTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeTabView.swift; sourceTree = "<group>"; };
 		66E8B7FA266C1A0E00EE7DE5 /* RecipeFeaturedView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeFeaturedView.swift; sourceTree = "<group>"; };
+		66E8B7FF266D77A900EE7DE5 /* RecipeHighlights.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeHighlights.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +76,7 @@
 				66E8B7F226699D6000EE7DE5 /* RecipeDetailView.swift */,
 				66E8B7F5266AE59000EE7DE5 /* RecipeTabView.swift */,
 				66E8B7FA266C1A0E00EE7DE5 /* RecipeFeaturedView.swift */,
+				66E8B7FF266D77A900EE7DE5 /* RecipeHighlights.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -210,6 +213,7 @@
 			files = (
 				66E8B7EE2669947D00EE7DE5 /* DataServices.swift in Sources */,
 				66E8B7F326699D6000EE7DE5 /* RecipeDetailView.swift in Sources */,
+				66E8B800266D77A900EE7DE5 /* RecipeHighlights.swift in Sources */,
 				66A97A4426668D72009FC5BD /* RecipeList.swift in Sources */,
 				66A97A4226668D72009FC5BD /* ListViewApp.swift in Sources */,
 				66A5DE1E2667D33200A23D0C /* RecipeModel.swift in Sources */,
